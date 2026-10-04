@@ -1,0 +1,143 @@
+almonds,500.0,kg
+apple,180.0,kg
+asafoetida,45.0,kg
+ash gourd,35.0,kg
+banana,40.0,kg
+basmati rice,120.0,kg
+bay leaf,25.0,kg
+beans,60.0,kg
+bed sheet,120.0,piece
+beetroot,45.0,kg
+bitter gourd,45.0,kg
+black gram,130.0,kg
+blueberry,250.0,kg
+bread,40.0,piece
+brinjal,40.0,kg
+broccoli,90.0,kg
+brown bread,50.0,piece
+brown rice,90.0,kg
+brown sugar,65.0,kg
+butter,55.0,piece
+buttermilk,25.0,piece
+cabbage,35.0,kg
+capsicum,70.0,kg
+cardamom,120.0,kg
+carrot,50.0,kg
+cashew nuts,450.0,kg
+cauliflower,50.0,kg
+chana dal,100.0,kg
+cheese,120.0,piece
+chickpeas,110.0,kg
+chilli powder,45.0,kg
+chilli sauce,90.0,piece
+chocos,160.0,piece
+cinnamon,80.0,kg
+cloves,90.0,kg
+coconut,40.0,piece
+coconut oil,240.0,kg
+coffee powder,220.0,kg
+cola,20.0,piece
+condom,250.0,piece
+coriander leaves,34.0,kg
+coriander powder,40.0,kg
+corn flakes,140.0,piece
+cream,70.0,piece
+creatine,2500.0,piece
+cucumber,30.0,kg
+cumin seeds,30.0,kg
+curd,40.0,piece
+curry leaves,10.0,kg
+dates,180.0,kg
+dragon fruit,120.0,kg
+drumstick,30.0,kg
+eggs,7.0,piece
+fenugreek seeds,20.0,kg
+figs,400.0,kg
+garam masala,60.0,kg
+garlic,40.0,kg
+garlic bread,80.0,piece
+ghee,320.0,kg
+ginger,30.0,kg
+ginger garlic paste,65.0,kg
+grapes,100.0,kg
+green chilli,20.0,kg
+green gram,110.0,kg
+green tea,220.0,kg
+guava,70.0,kg
+honey,180.0,piece
+hotwheels,179.0,piece
+jackfruit,500.0,kg
+jaggery,55.0,kg
+jam,85.0,piece
+kiwi,40.0,kg
+laddu,8.0,piece
+ladies finger,45.0,kg
+lemon,5.0,piece
+lemon toffe,15.0,piece
+lollipop,10.0,piece
+macaroni,80.0,kg
+maida,65.0,kg
+mango,150.0,kg
+masoor dal,120.0,kg
+mayonnaise,150.0,piece
+milk,30.0,piece
+mint leaves,15.0,kg
+moong dal,110.0,kg
+muesli,180.0,piece
+mushroom,80.0,kg
+mustard oil,210.0,kg
+mustard seeds,25.0,kg
+noodles,30.0,piece
+oats,120.0,piece
+olive oil,450.0,kg
+onion,40.0,kg
+orange,120.0,kg
+paneer,90.0,kg
+papaya,60.0,kg
+pasta,70.0,kg
+peanut butter,180.0,piece
+peanuts,80.0,kg
+pear,140.0,kg
+peas,70.0,kg
+peas vegetable,50.0,kg
+peda,5.0,piece
+pepper powder,80.0,kg
+pickle,95.0,piece
+pineapple,80.0,kg
+pistachios,650.0,kg
+poha,40.0,kg
+pomegranate,180.0,kg
+potato,35.0,kg
+protien powder,3000.0,kg
+pumpkin,40.0,kg
+radish,30.0,kg
+ragi,28.0,kg
+raisins,220.0,kg
+rajma,130.0,kg
+rava,45.0,kg
+rc car,250.0,piece
+rice,60.0,kg
+rock salt,30.0,kg
+salt,20.0,kg
+snake gourd,40.0,kg
+soap,35.0,piece
+soy chunks,75.0,kg
+soy sauce,90.0,piece
+spaghetti,90.0,kg
+spinach,25.0,kg
+strawberry,180.0,kg
+sugar,50.0,kg
+sunflower oil,190.0,kg
+sweet potato,50.0,kg
+t shirt,499.0,piece
+tea powder,180.0,kg
+tomato,30.0,kg
+tomato ketchup,110.0,piece
+toor dal,140.0,kg
+turmeric powder,35.0,kg
+urad dal,130.0,kg
+vermicelli,35.0,kg
+vinegar,60.0,piece
+walnuts,550.0,kg
+watermelon,60.0,kg
+wheat flour,55.0,kg
